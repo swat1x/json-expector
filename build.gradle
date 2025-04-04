@@ -1,0 +1,12 @@
+allprojects {
+
+    apply plugin: 'java'
+
+    group = 'ru.swat1x'
+    version = '1.0-SNAPSHOT'
+
+    repositories {
+        mavenCentral()
+    }
+
+}

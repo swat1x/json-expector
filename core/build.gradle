@@ -1,0 +1,6 @@
+dependencies {
+    implementation libs.reflections
+
+    compileOnly libs.lombok
+    annotationProcessor libs.lombok
+}

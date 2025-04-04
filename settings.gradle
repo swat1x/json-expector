@@ -1,0 +1,4 @@
+rootProject.name = 'json-expector'
+include 'gson'
+include 'core'
+
